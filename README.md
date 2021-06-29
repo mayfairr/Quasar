@@ -4,6 +4,6 @@ Premium minecraft plugin that incorporates elemetns from rust i.e. Raiding, loot
 # Usage - Commands:
 * /setup or /config - Notifies the requester of the config.yml location. Requires `[quasar.setup]` permission.
 
-#Contributions
+# Contributions
 * mayfairr#2022 - Lead Developer
 * 07haroony#0001 - Idea Contribution
