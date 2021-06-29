@@ -1,0 +1,10 @@
+name: Quasar
+version: 1.0
+author: mayfairr
+main: com.mayfairr.quasar.Quasar
+description: 'Rust & Zombie apocolypse intergration'
+
+commands:
+  setup:
+    aliases: [config]
+    description: Configure / Setup the project!
